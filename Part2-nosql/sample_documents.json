@@ -1,0 +1,75 @@
+[
+  {
+    "_id": "prod_E001",
+    "category": "Electronics",
+    "name": "Samsung 55-inch 4K Smart TV",
+    "brand": "Samsung",
+    "price": 45000,
+    "in_stock": true,
+    "specs": {
+      "voltage": "220V",
+      "warranty_years": 2,
+      "screen_size_inches": 55,
+      "resolution": "4K UHD",
+      "smart_tv": true,
+      "hdmi_ports": 3
+    },
+    "tags": ["television", "4K", "smart", "Samsung"],
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 1284
+    },
+    "added_on": "2024-01-15"
+  },
+  {
+    "_id": "prod_C001",
+    "category": "Clothing",
+    "name": "Men's Premium Cotton Formal Shirt",
+    "brand": "Raymond",
+    "price": 1299,
+    "in_stock": true,
+    "specs": {
+      "fabric": "100% Cotton",
+      "fit": "Regular",
+      "gender": "Men",
+      "sizes_available": ["S", "M", "L", "XL", "XXL"],
+      "color_options": ["White", "Light Blue", "Black", "Grey"],
+      "care_instructions": "Machine wash cold"
+    },
+    "tags": ["formal", "cotton", "office-wear", "men"],
+    "ratings": {
+      "average": 4.2,
+      "total_reviews": 376
+    },
+    "added_on": "2024-02-10"
+  },
+  {
+    "_id": "prod_G001",
+    "category": "Groceries",
+    "name": "Organic Rolled Oats 1kg",
+    "brand": "Quaker",
+    "price": 280,
+    "in_stock": true,
+    "specs": {
+      "weight_grams": 1000,
+      "organic": true,
+      "vegan": true,
+      "expiry_date": "2025-06-30",
+      "storage": "Store in cool dry place"
+    },
+    "nutrition_per_100g": {
+      "calories": 389,
+      "protein_g": 17,
+      "carbohydrates_g": 66,
+      "fat_g": 7,
+      "fiber_g": 10
+    },
+    "tags": ["oats", "organic", "breakfast", "healthy"],
+    "ratings": {
+      "average": 4.7,
+      "total_reviews": 892
+    },
+    "added_on": "2024-01-20"
+  }
+]
+
